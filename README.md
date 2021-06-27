@@ -50,5 +50,10 @@ Range Rover
 
 # Comparison of all the models
 
+![image](https://user-images.githubusercontent.com/70081663/123543802-e945b980-d76d-11eb-86f9-6abd934d6ac4.png)
+
+# Visualize the predictions
+
+![image](https://user-images.githubusercontent.com/70081663/123543824-09757880-d76e-11eb-9a8e-705410e8a7e0.png)
 
 
