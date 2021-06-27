@@ -2,13 +2,13 @@
 
 This is an end to end image classification deep learning project from data collection to deployment as a web app(using gradio)
 
-![image](https://user-images.githubusercontent.com/70081663/123543974-b05a1480-d76e-11eb-900f-2413782ef834.png)
-
 # Problem Statement:
 
 According to the study conducted by "Mordor Intelligence" on the Indian used car market was valued at USD 27 billion in 2020, and it is expected to reach USD 50 Billion by 2026. Link to the article: https://www.mordorintelligence.com/industry-reports/india-used-car-market
 
 Sometimes when people see any car on the road and like it but not sure of the model to further enquire about it, then they can take a snap of it and use our app link to know about the car model. They can consult the used cars dealership.
+
+![image](https://user-images.githubusercontent.com/70081663/123543974-b05a1480-d76e-11eb-900f-2413782ef834.png)
 
 Classification of images of the cars to their respective labels using Deep Learning Techniques.
 
