@@ -1,6 +1,6 @@
 # CLASSIFICATION OF CAR MODELS USING COVOLUTIONAL NEURAL NETWORK (TRANSFERLEARNING|DEPLOYMENT)
 
-This is an end to end image classification deep learning project from data collection to deployment as a web app.
+This is an end to end image classification deep learning project from data collection to deployment as a web app(using gradio)
 
 # Problem Statement:
 
@@ -12,11 +12,19 @@ Classification of images of the cars to their respective labels using Deep Learn
 
 # Class Labels:
 
-Creta
-Innova
-Nano
-Scorpio
-Range Rover
+Creta<br>
+Innova<br>
+Nano<br>
+Scorpio<br>
+Range Rover<br>
+
+# Demo
+
+
+
+https://user-images.githubusercontent.com/70081663/123543848-290ca100-d76e-11eb-90ce-4a7d7bad558d.mp4
+
+
 
 # Project Pipeline/Work Flow:
 
@@ -30,7 +38,7 @@ Range Rover
  3.5 Final Model(Transfer Learning + callbacks)<br>
 4. Visualize the predictions
 5. Analysis of the accuracy and loss of all the models built
-6. Deployment
+6. Deployment(using gradio)
 
 **Steps to handle overfitting:**
 
