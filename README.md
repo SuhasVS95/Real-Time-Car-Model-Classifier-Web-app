@@ -1,4 +1,4 @@
-# CLASSIFICATION OF CAR MODELS USING COVOLUTIONAL NEURAL NETWORK (TRANSFERLEARNING|DEPLOYMENT)
+# REAL-TIME CLASSIFICATION OF CAR MODELS USING COVOLUTIONAL NEURAL NETWORK (TRANSFERLEARNING|DEPLOYMENT)
 
 This is an end to end image classification deep learning project from data collection to deployment as a web app(using gradio)
 
